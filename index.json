@@ -1,0 +1,9 @@
+{
+   "cloudfunctions":{
+      "python":{
+         "pubsub":"https://github.com/cloudboot/pubsub-python-functions-template/archive/refs/heads/main.zip",
+         "https":"https://github.com/cloudboot/http-python-functions-template/archive/refs/heads/main.zip",
+         "storage":"https://github.com/cloudboot/storage-python-functions-template/archive/refs/heads/main.zip"
+      }
+   }
+}
