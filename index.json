@@ -1,5 +1,5 @@
 {
-   "cloudfunctions":{
+   "functions":{
       "dotnet":{
          "http": {
             "name": "http-dotnet-functions-template",
