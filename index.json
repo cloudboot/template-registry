@@ -2,154 +2,154 @@
    "functions":{
       "dotnet":{
          "http": {
-            "name": "http-dotnet-functions-template",
+            "name": "http-dotnet-functions-template-main",
             "src": "https://github.com/cloudboot/http-dotnet-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "CloudBootHttp.Function"
          },
          "firestore": {
-            "name": "firestore-dotnet-functions-template",
+            "name": "firestore-dotnet-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-dotnet-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "CloudbootFirestore.Function"
          },
          "pubsub": {
-            "name": "pubsub-dotnet-functions-template",
+            "name": "pubsub-dotnet-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-dotnet-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "CloudbootPubsub.Function"
          },
          "storage": {
-            "name": "storage-dotnet-functions-template",
+            "name": "storage-dotnet-functions-template-main",
             "src": "https://github.com/cloudboot/storage-dotnet-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "CloudbootStorage.Function"
          }
       },
       "go":{
          "http": {
-            "name": "http-go-functions-template",
+            "name": "http-go-functions-template-main",
             "src": "https://github.com/cloudboot/http-go-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "Main"
          },
          "firestore": {
-            "name": "firestore-go-functions-template",
+            "name": "firestore-go-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-go-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "Main"
          },
          "pubsub": {
-            "name": "pubsub-go-functions-template",
+            "name": "pubsub-go-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-go-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "Main"
          },
          "storage": {
-            "name": "storage-go-functions-template",
+            "name": "storage-go-functions-template-main",
             "src": "https://github.com/cloudboot/storage-go-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "Main"
          }
       },
       "java":{
          "http": {
-            "name": "http-java-functions-template",
+            "name": "http-java-functions-template-main",
             "src": "https://github.com/cloudboot/http-java-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "cloudboot.MainHttpFunction"
          },
          "firestore": {
-            "name": "firestore-java-functions-template",
+            "name": "firestore-java-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-java-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "functions.FirestoreFunction"
          },
          "pubsub": {
-            "name": "pubsub-java-functions-template",
+            "name": "pubsub-java-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-java-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "cloudbootpubsub.PubsubFunction"
          },
          "storage": {
-            "name": "storage-java-functions-template",
+            "name": "storage-java-functions-template-main",
             "src": "https://github.com/cloudboot/storage-java-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "cloudbootstorage.StorageFunction"
          }
       },
       "nodejs":{
          "http": {
-            "name": "http-nodejs-functions-template",
+            "name": "http-nodejs-functions-template-main",
             "src": "https://github.com/cloudboot/http-nodejs-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "firestore": {
-            "name": "firestore-nodejs-functions-template",
+            "name": "firestore-nodejs-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-nodejs-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "pubsub": {
-            "name": "pubsub-nodejs-functions-template",
+            "name": "pubsub-nodejs-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-nodejs-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "storage": {
-            "name": "storage-nodejs-functions-template",
+            "name": "storage-nodejs-functions-template-main",
             "src": "https://github.com/cloudboot/storage-nodejs-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          }
       },
       "php":{
          "http": {
-            "name": "http-php-functions-template",
+            "name": "http-php-functions-template-main",
             "src": "https://github.com/cloudboot/http-php-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "firestore": {
-            "name": "firestore-php-functions-template",
+            "name": "firestore-php-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-php-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "pubsub": {
-            "name": "pubsub-php-functions-template",
+            "name": "pubsub-php-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-php-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "storage": {
-            "name": "storage-php-functions-template",
+            "name": "storage-php-functions-template-main",
             "src": "https://github.com/cloudboot/storage-php-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          }
       },
       "python":{
          "http": {
-            "name": "http-python-functions-template",
+            "name": "http-python-functions-template-main",
             "src": "https://github.com/cloudboot/http-python-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "firestore": {
-            "name": "firestore-python-functions-template",
+            "name": "firestore-python-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-python-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "pubsub": {
-            "name": "pubsub-python-functions-template",
+            "name": "pubsub-python-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-python-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "storage": {
-            "name": "storage-python-functions-template",
+            "name": "storage-python-functions-template-main",
             "src": "https://github.com/cloudboot/storage-python-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          }
       },
       "ruby":{
          "http": {
-            "name": "http-ruby-functions-template",
+            "name": "http-ruby-functions-template-main",
             "src": "https://github.com/cloudboot/http-ruby-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "firestore": {
-            "name": "firestore-ruby-functions-template",
+            "name": "firestore-ruby-functions-template-main",
             "src": "https://github.com/cloudboot/firestore-ruby-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "pubsub": {
-            "name": "pubsub-ruby-functions-template",
+            "name": "pubsub-ruby-functions-template-main",
             "src": "https://github.com/cloudboot/pubsub-ruby-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          },
          "storage": {
-            "name": "storage-ruby-functions-template",
+            "name": "storage-ruby-functions-template-main",
             "src": "https://github.com/cloudboot/storage-ruby-functions-template/archive/refs/heads/main.zip",
             "entrypoint": "main"
          }
